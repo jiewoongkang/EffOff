@@ -1,11 +1,7 @@
 # EffOff: Disable Windows 11 Efficiency Mode (EcoQoS) Automatically
 ### Stop Process Throttling | Fix Docker & WSL2 Lag | High-Performance Watchdog
 
-<p align="center">
-  <a href="https://apps.microsoft.com/store/detail/9P8KKR4H29F2">
-    <img src="https://get.microsoft.com/images/en-us-dark.png" width="250"/>
-  </a>
-</p>
+[![Get it from Microsoft](https://img.shields.io/badge/Microsoft_Store-0078D4?style=for-the-badge&logo=microsoft-store&logoColor=white)](https://apps.microsoft.com/store/detail/9P8KKR4H29F2)
 
 ---
 
