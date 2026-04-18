@@ -36,6 +36,14 @@ EffOff is a lightweight background utility that acts as a **performance watchdog
 | **Français** | Désactiver Mode Efficacité, Stop Throttling | **Docker lent**, WSL2 lag, Performance Windows |
 | **Русский** | Отключить режим эффективности, Оптимизация | **Docker тормозит**, WSL2 лаги, Приоритет процессов |
 
+## 💰 Availability
+
+Available on Microsoft Store:
+
+👉 https://apps.microsoft.com/store/detail/9P8KKR4H29F2
+
+One-time purchase. No subscription.
+
 ---
 
 ## 🔬 Why This Matters
